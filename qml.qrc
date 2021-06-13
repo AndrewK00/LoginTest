@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>quwi-logo.png</file>
+        <file>CustomTextInput.qml</file>
+        <file>HomePage.qml</file>
+    </qresource>
+</RCC>
